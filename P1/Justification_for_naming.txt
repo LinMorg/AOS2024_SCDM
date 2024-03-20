@@ -1,0 +1,6 @@
+Naming of .dat file
+Loc1 was chosen as the CTD data comes from a single loctation
+20081123 is the data when the data was collected
+0653 was the time when the data was collected
+ts is the data that was collected (temperature and salinity)
+d1000 is the maxium depth
